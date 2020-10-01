@@ -15,7 +15,7 @@ printf "\e[1;92m       ⁪⁬⁮⁮⁮⁮         ⁪⁬⁮⁮⁮⁮   \e[0m\e"
 printf "\e[1;92m   mazyar 📸\e[0m\e   \e[0m\n"
 printf "\e[1;92m   Canal telegram: @jen_hacksr\e[0m                                 \n"
 
-printf " \e[1;77m v1.0 coded by https://github.com/HACKGM/cam\e[0m \n"
+printf " \e[1;77m v1.0 coded by https://github.com/mazyar17/cam\e[0m \n"
 
 printf "\n"
 
